@@ -1,0 +1,17 @@
+D:\C#\QuizApp-sdk\bin\Release\QuizApp.exe
+D:\C#\QuizApp-sdk\bin\Release\QuizApp.pdb
+D:\C#\QuizApp-sdk\bin\Release\QuizApp.exe.config
+D:\C#\QuizApp-sdk\obj\Release\QuizApp-sdk.csproj.AssemblyReference.cache
+D:\C#\QuizApp-sdk\obj\Release\QuizApp-sdk.csproj.SuggestedBindingRedirects.cache
+D:\C#\QuizApp-sdk\obj\Release\QuizApp_sdk.QuizEditorForm.resources
+D:\C#\QuizApp-sdk\obj\Release\QuizApp_sdk.Properties.Resources.resources
+D:\C#\QuizApp-sdk\obj\Release\QuizApp-sdk.csproj.GenerateResource.cache
+D:\C#\QuizApp-sdk\obj\Release\QuizApp-sdk.csproj.CoreCompileInputs.cache
+D:\C#\QuizApp-sdk\obj\Release\QuizApp-sdk.csproj.CopyComplete
+D:\C#\QuizApp-sdk\obj\Release\QuizApp_sdk.AboutQuizAppEditor.resources
+D:\C#\QuizApp-sdk\bin\Release\QuizApp-sdk.exe.config
+D:\C#\QuizApp-sdk\bin\Release\QuizApp-sdk.exe
+D:\C#\QuizApp-sdk\bin\Release\QuizApp-sdk.pdb
+D:\C#\QuizApp-sdk\obj\Release\QuizApp-sdk.exe
+D:\C#\QuizApp-sdk\obj\Release\QuizApp-sdk.pdb
+D:\C#\QuizApp-sdk\obj\Release\QuizApp_sdk.FlagsForm.resources
